@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/dexBlen/blendverse-lib/contracts/utils/TransferHelper.sol": "TransferHelper"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/dexBlen/blendverse-lib/contracts/utils/TransferHelper.sol": {
+			"keccak256": "0xb42584c1c0ddf4aa041f1f1d19b74814219da4d612db391ebd581b0beab3a733",
+			"urls": [
+				"bzz-raw://e7b9f2ef7243c7e6ee9aba8f5e25856682eed52decdb04119e10a1132a8fac29",
+				"dweb:/ipfs/QmZuuXVvSkWpopRG8fAw2o9G6JbUVaQswhMxhhChNnU6Mp"
+			]
+		}
+	},
+	"version": 1
+}

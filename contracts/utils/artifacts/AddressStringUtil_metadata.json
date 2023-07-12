@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/dexBlen/blendverse-lib/contracts/utils/AddressStringUtil.sol": "AddressStringUtil"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/dexBlen/blendverse-lib/contracts/utils/AddressStringUtil.sol": {
+			"keccak256": "0xa688d39bc0ca0466291cf127e62b13ee6142f389110f5014215997fe4812f77f",
+			"urls": [
+				"bzz-raw://b2a48a03dae6cc331ab10e4375f1ff6654d10028140a097232b95133a8190b68",
+				"dweb:/ipfs/QmVUCDxe8v7fV66Q1ULigkVEkFauaYqF5erzPa8wwVFCDP"
+			]
+		}
+	},
+	"version": 1
+}
